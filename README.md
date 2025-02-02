@@ -1,7 +1,7 @@
 ### Olá, me chamo Grazielle! ✨
 
 - Systems Analysis and Development at the FIAP
-
+- Develop Web💻
 
 ## Contatos:
 
