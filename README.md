@@ -1,4 +1,4 @@
-<h1 >✨ Grazielle Alencar ✨</h1>
+<h1 >I'm Grazielle Alencar ✨</h1>
 <p >Front-end Developer | UX/UI | Marketing Digital</p>
 
 ---
@@ -7,7 +7,7 @@
 
 ###
 
-Hi! I'm **Grazielle**, a web developer focused on **front-end**, with a real passion for design, user experience, and strategic communication.
+Hi! a web developer focused on **front-end**, with a real passion for design, user experience, and strategic communication.
 
 📍 São Paulo, Brazil  
 🎓 Currently studying Systems Analysis and Development at **FIAP**  
@@ -64,11 +64,5 @@ I'm driven by ideas that leap off the page and become **innovative projects with
 ###
 
 <p align="center"><i>“Se é pra fazer, que seja com propósito. Se é pra aprender, que seja com curiosidade. Se é pra crescer, que seja com intenção.”</i></p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/grazialencar/grazialencar/output/snake.svg" alt="Snake animation" />
 
 ###
