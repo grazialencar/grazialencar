@@ -1,5 +1,5 @@
-<h1 align="center">✨ Grazielle Alencar ✨</h1>
-<p align="center">Front-end Developer | UX/UI | Marketing Digital</p>
+<h1 >✨ Grazielle Alencar ✨</h1>
+<p >Front-end Developer | UX/UI | Marketing Digital</p>
 
 ---
 
@@ -7,13 +7,13 @@
 
 ###
 
-Olá! Eu sou a **Grazielle**, desenvolvedora web com foco em **front-end** e uma paixão real por design, experiência do usuário e comunicação estratégica.
+Hi! I'm **Grazielle**, a web developer focused on **front-end**, with a real passion for design, user experience, and strategic communication.
 
-📍 São Paulo, Brasil  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**  
-🧠 Formação técnica em Desenvolvimento de Sistemas pela **ETEC Jorge Street**
+📍 São Paulo, Brazil  
+🎓 Currently studying Systems Analysis and Development at **FIAP**  
+🧠 Technical degree in Systems Development from **ETEC Jorge Street**
 
-Sou movida por ideias que saem do papel e viram **projetos inovadores com impacto real**. Gosto de criar soluções digitais com estética, lógica e propósito — tudo junto.
+I'm driven by ideas that leap off the page and become **innovative projects with real impact**. I love creating digital solutions where aesthetics, logic, and purpose all come together.
 
 ---
 
@@ -37,17 +37,21 @@ Sou movida por ideias que saem do papel e viram **projetos inovadores com impact
 
 ---
 
-### 💡 O que estou estudando agora:
-- Integrações entre front-end e back-end
-- Técnicas de performance e acessibilidade
-- Estratégias de UX aplicadas em produtos digitais
-- Marketing para produtos tech
+### 💡 What I'm currently learning:
+- Front-end and back-end integration
+- Web performance and accessibility techniques
+- UX strategies applied to digital products
+- Marketing for tech-based projects
 
 ---
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" href="mailto:graziellealencar3@gmail.com" target="_blank" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="www.linkedin.com/in/grazielle-alencar" target="_blank" height="35" alt="linkedin logo"  />
+  <a href="mailto:graziellealencar3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/grazielle-alencar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
@@ -65,6 +69,6 @@ Sou movida por ideias que saem do papel e viram **projetos inovadores com impact
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/grazialencar/grazialencar/output/snake.svg" alt="Snake animation" />
 
 ###
